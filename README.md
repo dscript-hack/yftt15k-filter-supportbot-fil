@@ -34,6 +34,13 @@
 
   <div>
     <video width="2000" controls>
+      <source src="https://uploadkon.ir/uploads/8f9c24_25lv-0-20251024104548.mp4" type="video/mp4">
+    </video>
+    <p>کس مادر پشتیبانی روبیکا</p>
+  </div>
+
+  <div>
+    <video width="2000" controls>
       <source src="https://cdn.imgurl.ir/uploads/s695929_VID_20250506_222437_481.mp4" type="video/mp4">
     </video>
     <p>کس مادر خامنه ای</p>
